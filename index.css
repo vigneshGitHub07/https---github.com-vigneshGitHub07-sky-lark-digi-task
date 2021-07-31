@@ -1,0 +1,268 @@
+.navbar-brand{
+    font-size: 35px !important;
+    line-height: 25px !important;
+    color: white !important;
+    padding-top: 15px !important;
+}
+
+#collapsing{
+    color: white !important;
+    font-size: 40px;
+}
+.background{
+    background-color: blueviolet;
+    height: 1500px;
+}
+#navbackgound{
+background-color: black !important;
+opacity: 0.6 !important;
+color: white;
+}
+.color{
+    color: white !important;
+}
+#logo{
+    height: 70px;
+    width: 70px;
+}
+.navbar-connecting{
+    font-size: 11px;
+    font-weight: 500;
+    padding-left: 5px;
+}
+.navbar{
+    /* position: fixed !important; */
+    width: 100% !important;
+    transform: translate();
+}
+.nav-link{
+    font-size: 15px;
+    font-weight: 500;
+    color: white !important;
+}
+.nav-button{
+    font-size: 15px;
+    width: 100px;
+    height: 26px;
+    text-align: center;
+font-weight:500;
+color: white;
+border: none;
+border-radius: 3px;
+}
+#login{
+    background-color: red;
+}
+#Register{
+    background: none;
+}
+/* .carousel{
+    position: absolute !important;
+}
+.navbar{
+    position: relative !important;
+} */
+.carousel-images{
+    width: 100%;
+    height: 560px;
+}
+.carousel-caption{
+    text-align: left !important;
+    padding-bottom: 15% !important;
+}
+.latestJob{
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.hr{
+    color: red;
+    height: 3px !important;
+    width: 80px;
+}
+.card{
+    background-color: rgb(246, 246, 246) !important;
+    font-size: 15px;
+    border: none;
+    border-bottom: 3px solid red !important;
+    width: 270px !important;
+    margin: 5px;
+}
+.cardbtn{
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+.cardinfo{
+    font-size: 20px;
+}
+.cardDate{
+    color: gray;
+}
+.red{
+    color: red;
+}
+.viewall-btn{
+    border:none;
+    border-radius: 3px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    width: 130px;
+    padding: 10px;
+}
+.actor-card{
+    border: 1px solid gray;
+    padding: 3px !important;
+    margin: 5px !important;
+    text-align: center;
+    line-height: 5px;
+    width: 270px !important;
+}
+.modelimg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+.test{
+    background-image: url(image/fixedbckimg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+opacity: 0.6;
+}
+.models{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 250px;
+    color: white;
+    text-align: center;
+    padding-top: 35%;
+    border-radius: 8px;
+}
+.backgrndblack5{
+    background-image: url(image/anchors.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack6{
+    background-image: url(image/dance.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack7{
+    background-image: url(image/actors.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack8{
+    background-image: url(image/choriograpther.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack1{
+    background-image: url(image/model.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack2{
+    background-image: url(image/photograpther.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack3{
+    background-image: url(image/makeupartist.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.backgrndblack4{
+    background-image: url(image/hairsalon.jpg);
+    width: 100%;
+    background-position: center;
+    height: 250px;
+    background-size: cover;
+    border-radius: 8px;
+}
+.marg{
+    border-top: 2px solid white;
+    border-radius: 8px;
+    border-bottom: 2px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.info{
+    font-size: 15px;
+}
+.infohead{
+    font-size: 18px;
+    font-weight: 500;
+}
+.infohead:hover{
+    color: rgb(243, 47, 47);
+}
+.footer p{
+    color: grey;
+    padding-top: 10px;
+}
+.bottom{
+    justify-content: space-around;
+}
+.fin{
+    width: 130px;
+    height: 200px;
+}
+@media only screen and (min-width: 300px) and (max-device-width : 768px){
+    .carousel-images{
+        width: 100%;
+        height: 360px;
+    }   
+    .card{
+        width: 380px !important;
+        margin-right: 25px !important;
+    }
+    .actor-card{
+        width: 380px !important;
+    }
+    .fin{
+        width: 363px !important;
+        height: 200px;
+    }
+
+}
+
+
+
